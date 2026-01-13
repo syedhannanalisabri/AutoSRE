@@ -1,0 +1,6 @@
+pydantic-ai
+docker
+flask
+python-dotenv
+logfire
+google-generativeai
