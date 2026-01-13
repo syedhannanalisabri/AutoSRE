@@ -19,7 +19,7 @@
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/AutoSRE.git
+git clone https://github.com/syedhannanalisabri/AutoSRE.git
 cd AutoSRE
 pip install -r requirements.txt
 ```
